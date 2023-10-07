@@ -1,8 +1,8 @@
-# 🚀 ts-emoji 🚀 
+# 🚀 ts-emoji 🚀
 
 Impeccable TypeScript for the Expressive Developer
 
-## 🎉 Revel in the Renaissance of Commenting 🎉 
+## 🎉 Revel in the Renaissance of Commenting 🎉
 
 Behold! The monumental `ts-emoji`, an artisanal TypeScript preprocessor destined to intertwine the charm of emojis with the sturdiness of TypeScript directives.
 
@@ -96,7 +96,7 @@ Behold the default mappings, bridging the whimsical world of emojis and the stea
 }
 ```
 
-You may peruse [`emojis.json`](./path-to/emojis.json) within the library’s confines for the exhaustive list of mappings.
+You may peruse [`emojis.json`](./src/emojis.json) within the library’s confines for the exhaustive list of mappings.
 
 ## 🛠️ Contribution & Enhancement 🛠️
 
@@ -110,9 +110,9 @@ To ensure your magicks do not disturb the existing enchantments, invoke the test
 npm test
 ```
 
-## 📜 License 📜 
+## 📜 License 📜
 
-Released under the [MIT License](LICENSE). 
+Released under the [MIT License](LICENSE).
 
 Embellish your TypeScript with the joys of emojis and embark upon a coding journey where logic and emotion dance together in a symphony of symbiotic harmony!
 
