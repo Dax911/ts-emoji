@@ -1,0 +1,23 @@
+{
+  "🙉": "@ts-ignore",
+  "🙈": "@ts-nocheck",
+  "🙊": "@ts-expect-error",
+  "👀": "@ts-check",
+  "🏃": "@ts-skip",
+  "🐞": "@ts-debug",
+  "📝": "@ts-todo",
+  "👴": "@ts-deprecated",
+  "🤝": "@ts-interface",
+  "🔨": "@ts-implements",
+  "💭": "@ts-abstract",
+  "🏷️": "@ts-type",
+  "🔒": "@ts-private",
+  "🛡️": "@ts-protected",
+  "🌎": "@ts-public",
+  "👇": "@ts-this",
+  "🍹": "@ts-mixin",
+  "🗣️": "@ts-declare",
+  "🔐": "@ts-readonly",
+  "👫": "@ts-tuple"
+}
+
