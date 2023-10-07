@@ -1,6 +1,6 @@
 {
   "name": "ts-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Dax911",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.8.3",
     "ts-node": "^10.9.1",
