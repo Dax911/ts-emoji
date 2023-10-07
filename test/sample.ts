@@ -1,8 +1,8 @@
 // 🙉
 const x: any = 'This should be ignored';
 
-// 🙈
 // The following block should have no TypeScript checks
+// 🙈
 const y: string = 123;
 
 // 📝 Need to refactor the below function
